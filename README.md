@@ -34,6 +34,7 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/bash-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/vim-plain.svg" width="36" height="36" alt="C" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/vscode-original.svg" width="36" height="36" alt="C" /></a>
+<p>I use arch btw</p>
 </p>
 
 ### Socials
