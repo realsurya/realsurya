@@ -12,7 +12,7 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 
 
 ### My Languages
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/python-original.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/matlab-original.svg" width="36" height="36" alt="MATLAB" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/rust-plain.svg" width="36" height="36" alt="Rust" /></a>
@@ -21,14 +21,14 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 </p>
 
 ### Devops
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/git-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/github-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/circleci-plain.svg" width="36" height="36" alt="C" /></a>
 </p>
 
 ### Dev Environment
-<p align="left">
+<p align="center">
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/linux-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/bash-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/vim-plain.svg" width="36" height="36" alt="C" /></a>
@@ -37,7 +37,7 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 
 ### Socials
 
-<p align="left">
+<p align="center">
 <a href="https://www.github.com/smanikha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/github-original.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/aerospacesurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/linkedin-original.svg" width="32" height="32" /></a>
 </p>
