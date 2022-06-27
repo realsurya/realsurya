@@ -21,14 +21,14 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 <a href="https://javascript.info/js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/javascript-original.svg" width="36" height="36" alt="C" /></a>
 </p>
 
-### Devops
+### My DevOps
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/git-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/github-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://circleci.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/circleci-plain.svg" width="36" height="36" alt="C" /></a>
 </p>
 
-### Dev Environment
+### My Environment
 <p align="center">
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/linux-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/bash-original.svg" width="36" height="36" alt="C" /></a>
@@ -37,8 +37,7 @@ I'm an Aerospace Engineering student from Purdue University with a passion for R
 <p align="center">I use arch btw</p>
 </p>
 
-### Socials
-
+### My Socials
 <p align="center">
 <a href="https://www.github.com/smanikha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/github-original.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/aerospacesurya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/linkedin-original.svg" width="32" height="32" /></a>
