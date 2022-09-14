@@ -1,9 +1,6 @@
 Hi 👋 My name is Surya Manikhandan
 ==================================
 
-Electro-Mechanical Systems Co-Op @ Boom Supersonic
---------------------------------------------------
-
 I'm an Aerospace Engineering student from Purdue University with a passion for R&D and good science.
 
 I'm currently an Electro-mechanical Systems Co-Op at <a href="https://boomsupersonic.com/">Boom Supersonic</a>. Prior to Boom, I completed 3 rotations as a Co-Op at <a href="https://gulfstream.com/en/">Gulfstream Aerospace</a>. Welcome to my Github profile! 
