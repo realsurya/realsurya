@@ -1,12 +1,11 @@
 Hi 👋 My name is Surya Manikhandan
 ==================================
 
-Summer 2022 E-Mech Intern @ Boom Supersonic
--------------------------------------------
+Electro-Mechanical Systems Co-Op @ Boom Supersonic
+--------------------------------------------------
 
 I'm an Aerospace Engineering student from Purdue University with a passion for R&D and good science.
 
-* 🖥️  See my personbal Github at [http://github.com/realsurya](http://github.com/realsurya)
 * ✉️  My Boom email is [surya.manikhandan@boom.aero](mailto:surya.manikhandan@boom.aero)
 * ✉️  My personal email is [smanikha@purdue.edu](mailto:smanikha@purdue.edu)
 
