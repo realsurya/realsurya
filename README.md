@@ -1,12 +1,9 @@
-Hi there 👋! My name is Surya Manikhandan
-==========================================
+Hi there 👋! I'm Surya Manikhandan
+===================================
 
 I'm an Aerospace Engineering student from Purdue University with a passion for R&D and good science.
 
 I'm currently a Launch Engineering Intern at <a href="https://spacex.com/">SpaceX</a>. Prior to Spacex, I completed three Co-Op rotations at <a href="https://gulfstream.com/en/">Gulfstream Aerospace</a> and two rotations at <a href="https://boomsupersonic.com/">Boom Supersonic</a>. Welcome to my Github profile! 
-
-* ✉️  My Boom email is [surya.manikhandan@boom.aero](mailto:surya.manikhandan@boom.aero)
-* ✉️  My personal email is [smanikha@purdue.edu](mailto:smanikha@purdue.edu)
 
 ### Me in a nutshell
 <center>
