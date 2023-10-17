@@ -51,17 +51,6 @@ I'm currently a Launch Engineering Intern at <a href="https://spacex.com/">Space
 
 ### My Github Stats
 <center>
-         <table align="center" style = "border: none;opacity: 0;">
-                  <tr>
-                    <td>
-                           <a href="http://www.github.com/realsurya"><img src="https://github-readme-stats.vercel.app/api?username=realsurya&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="smanikha's GitHub stats" /></a>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                           <a href="http://www.github.com/realsurya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=realsurya&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-                    </td>
-                  </tr>
-         </table>
+<a href="http://www.github.com/realsurya"><img src="https://github-readme-streak-stats.herokuapp.com/user=realsurya&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </center>
 </center>
